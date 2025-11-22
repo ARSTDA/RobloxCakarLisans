@@ -1,0 +1,13 @@
+{
+  "duyuru": "Sistem aktif! Sürüm 1.0 yayında.",
+  "guncelSurum": "1.0",
+  "whitelist": [
+    12345678,
+    87654321,
+    10203040
+  ],
+  "blacklist": [
+    9999999,
+    5555555
+  ]
+}
